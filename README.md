@@ -7,7 +7,7 @@ Current Paste sources : Pastebin, Pastie, Slexy, Ghostbin, QuickLeak, JustPaste,
 When using the password checker (option 2) your password is NOT transmitted, it is hashed (SHA1) AND only the
 first 5 characters are used to verify if it is available online.You can verify this in the source code."
 
-
+Usage : run the program with python credentialchecker.py
 
 Credits to haveibeenpwned.com for providing the data. 
 
