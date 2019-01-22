@@ -60,11 +60,11 @@ def hashCheckHIBP():
     remaining_hash_chars = hashpwd[5:]
     print("\nThe SHA1 hash of your password is "+hashpwd)
     print("\nThe hash PREFIX is "+first_five_hash_chars)
-    print("\nThe hash SUFFIX is "+remaining_hash_chars)
+    #print("\nThe hash SUFFIX is "+remaining_hash_chars)
     print ("\nchecking for matches...")
     content = hibpHashCheckAPIRequest(first_five_hash_chars)
     length = content.count('\n')
-    print ("\nThere were " + str(length) + " hash SUFFIXES that matched")
+    #print ("\nThere were " + str(length) + " hash SUFFIXES that matched")
     list_content = content.split("\r\n")
     
     #seperating the count from the hash
