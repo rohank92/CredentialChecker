@@ -10,6 +10,9 @@ first 5 characters are used to verify if it is available online.You can verify t
 Usage : run the program with 
 python credentialchecker.py
 
+Python version : Python 2.7.10
+
+
 Credits to haveibeenpwned.com for providing the data. 
 
 
