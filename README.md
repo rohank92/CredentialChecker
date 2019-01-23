@@ -18,7 +18,7 @@ Python version :
 
 *Python 2.7.10 - credentialchecker.py 
 
-*python 3.6.5  - credentialchecker3.py
+*Python 3.6.5  - credentialchecker3.py
 
 
 Credits to haveibeenpwned.com for providing the data. 
