@@ -9,13 +9,15 @@ first 5 characters are used to verify if it is available online.You can verify t
 
 Usage : run the program with 
 
-*`python credentialchecker.py` 
-*`python3 credentialchecker3.py`
+`python credentialchecker.py` 
+
+`python3 credentialchecker3.py`
 
 
 Python version :
 
 *Python 2.7.10 - credentialchecker.py 
+
 *python 3.6.5  - credentialchecker3.py
 
 
